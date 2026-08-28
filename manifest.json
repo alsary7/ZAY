@@ -1,1 +1,16 @@
-
+{
+  "name": "ZAY COMPANY",
+  "short_name": "ZAY",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080b10",
+  "theme_color": "#c9a227",
+  "icons": [
+    {
+      "src": "/WhatsApp Image 2026-08-28 at 11.41.39 PM.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
